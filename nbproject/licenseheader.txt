@@ -1,0 +1,8 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix} Assignment II for BusStation
+${licensePrefix} Team members : Muhammad Ibrahim, Mariam Yehia, Mayar Tarek
+<#if licenseLast??>
+${licenseLast}
+</#if>
